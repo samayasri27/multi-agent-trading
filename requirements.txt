@@ -1,0 +1,32 @@
+# AI-Powered Multi-Agent Trading System - Dependencies
+
+# Core Framework
+crewai==0.30.11
+langchain==0.1.20
+langchain-community==0.0.38
+langchain-groq==0.1.0
+
+# Data Processing
+pandas==2.1.4
+numpy>=1.24.0
+
+# Market Data APIs
+yfinance==0.2.33
+finnhub-python==2.4.19
+
+# Database & Vector Storage
+psycopg2-binary==2.9.9
+pgvector==0.2.4
+
+# AI/ML Libraries
+sentence-transformers==3.0.1
+transformers>=4.30.0
+
+# Utilities
+python-dotenv==1.0.0
+requests>=2.31.0
+
+# Optional: For enhanced functionality
+# jupyter>=1.0.0  # For notebook development
+# matplotlib>=3.7.0  # For data visualization
+# plotly>=5.15.0  # For interactive charts
