@@ -254,6 +254,4 @@ python quick_test.py
 - [CrewAI](https://github.com/joaomdmoura/crewAI) for the multi-agent framework
 - [Finnhub](https://finnhub.io/) for financial data API
 - [Groq](https://groq.com/) for fast LLM inference
-- [PostgreSQL](https://www.postgresql.org/) and [pgvector](https://github.com/pgvector/pgvector) for vector database# AI-Powered-Multi-Agent-Trading-System
-# AI-Powered-Multi-Agent-Trading-System
-# AI-Powered-Multi-Agent-Trading-System
+- [PostgreSQL](https://www.postgresql.org/) and [pgvector](https://github.com/pgvector/pgvector) for vector database
